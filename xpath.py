@@ -1,0 +1,8 @@
+open_cat_xpath = '//div[@class="mainmenubutton"]'
+fish_and_hunt_xpath = '//div[contains(@class,"mainmenu")]/ul[@class="list-unstyled"]/li/a[contains(@href,"ryibalka")]'
+accessories_xpath = '//div[@class="col-xs-12"]/div/ul/li/div/a[contains(@href,"aksessuaryi")]/p[contains(@style,"height:")]'
+sort_xpath = '//div[contains(@class,"category_sort col-xs-12")]/a[2]'
+price_xpath = '//div[contains(@class,"category_sort col-xs-12")]/a[3]'
+shares_xpath = '//div[contains(@class,"category_sort col-xs-12")]/a[4]'
+new_items_xpath = '//div[contains(@class,"category_sort col-xs-12")]/a[5]'
+sale_xpath = '//div[contains(@class,"category_sort col-xs-12")]/a[6]'
